@@ -15,21 +15,18 @@ To run the game, you need Python 3.x installed on your system.
 
 You can check if you have Python installed by running:
 
-bash
-Copy
+
 python --version
 Installation
 Clone the Repository: If this project is hosted on GitHub or any other repository, you can clone it using Git:
 
-bash
-Copy
+
 git clone <repository_url>
 Run the Code:
 
 After cloning or downloading the project, navigate to the project folder in your terminal or command prompt.
 Run the Python script:
-bash
-Copy
+
 python hangman.py
 How to Play
 When the game starts, a random word will be selected.
